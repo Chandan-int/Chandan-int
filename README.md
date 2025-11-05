@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <!-- <img width="1080" height="1080" alt="84576240-4c29-4454-a6c6-54adf2ac7cff (1)" src="https://github.com/user-attachments/assets/3866a6fd-5512-4aa9-bafc-b3e75e2595dc" /> -->
 
 
-https://github.com/user-attachments/assets/cedfb800-5407-4758-b519-1744c2e9707a
+
 
